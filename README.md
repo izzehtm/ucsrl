@@ -1,22 +1,12 @@
-This project was to identify if unions and union bodies are using appropriate level language in communications using Instagram captions as a benchmark. 
-
 Language level is identified using the Flesch-Kincaid method. 
 
 Appropriateness has been measured using:
 
 a) the average level of education for workers in relevant industries for each union (using 2021 ABS data)
 
-b) the style guide suggested by the Australian Government Style Manual (can be found at: 
+b) the style guide suggested by the Australian Government Style Manual (can be found at: https://www.stylemanual.gov.au/accessible-and-inclusive-content/literacy-and-access)
 
-* Online: https://www.stylemanual.gov.au/accessible-and-inclusive-content/literacy-and-access
-
-* Locally: "Simon_Haynes_Digital Organiser Portfolio\Data Science and Analysis\Union_Social_Media_Reading_Levels_Analysis\Sources\Literacy and access _ Style Manual.html"
-
-The results have been summarised in a Substack post. You can find the post 
-
-* Here: [insert URL]
-* Local files option 1: "Simon_Haynes_Digital_Organiser_Portflio/Written Communication/[insert file name here].docx"
-* Local files option 2: "Simon_Haynes_Digital_Organiser_Portflio/Written Communication/[insert file name here].html"
+The results have been summarised in a Substack post. You can find the post here: [insert URL]
 
 **Suggested Workflow**
 
