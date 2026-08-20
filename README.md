@@ -6,7 +6,7 @@ a) the average level of education for workers in relevant industries for each un
 
 b) the style guide suggested by the Australian Government Style Manual (can be found at: https://www.stylemanual.gov.au/accessible-and-inclusive-content/literacy-and-access)
 
-The results have been summarised in a Substack post. You can find the post here: [insert URL]
+The results have been summarised in a Substack post. You can find the post here: https://thepropagandaclinic.substack.com/p/analysis-are-aussie-unions-using-6f9
 
 **Suggested Workflow**
 
